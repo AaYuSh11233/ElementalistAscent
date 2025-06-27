@@ -271,6 +271,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
+**This project desperately needs talented team members!** If you're passionate about game development and want to work on an ambitious AAA-style RPG, we want to hear from you.
+
 - **Developer**: [AaYuSh11233](https://github.com/AaYuSh11233)
 - **Repository**: [ElementalistAscent](https://github.com/AaYuSh11233/ElementalistAscent)
 - **Issues**: [Bug Reports & Feature Requests](https://github.com/AaYuSh11233/ElementalistAscent/issues)
