@@ -190,10 +190,6 @@ APlayerHero::APlayerHero()
 }
 ```
 
-## 🤝 Contributing
-
-We welcome contributions from the community! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests.
-
 ### Development Workflow
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -258,10 +254,6 @@ We welcome contributions from the community! Please read our [Contributing Guide
 - Comprehensive logging system
 - Developer-friendly error handling
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Epic Games** for Unreal Engine 5
@@ -276,7 +268,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Developer**: [AaYuSh11233](https://github.com/AaYuSh11233)
 - **Repository**: [ElementalistAscent](https://github.com/AaYuSh11233/ElementalistAscent)
 - **Issues**: [Bug Reports & Feature Requests](https://github.com/AaYuSh11233/ElementalistAscent/issues)
-- **Discussions**: [Project Discussions](https://github.com/AaYuSh11233/ElementalistAscent/discussions)
 
 ---
 
