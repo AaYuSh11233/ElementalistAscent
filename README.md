@@ -280,7 +280,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**🌟 Star this repository if you find it interesting! 🌟**
+**🌟 Star this repository if you find it interesting or if you want to see the final product! 🌟**
 
 *Built with ❤️ using Unreal Engine 5 and C++*
 
